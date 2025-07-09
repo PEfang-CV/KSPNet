@@ -1,0 +1,1 @@
+This files stores the segmentation results.
