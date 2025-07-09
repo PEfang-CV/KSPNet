@@ -43,7 +43,7 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 
 or run the script
 
-    ```shell
+    ```
     sh run.sh
     ```
 
