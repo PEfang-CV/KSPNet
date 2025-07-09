@@ -48,6 +48,5 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 
 ## Notes
 
-+ The code for this project refers to [mask2former](https://github.com/facebookresearch/Mask2Former). Thanks for the authors for their efforts.
 + If there are any issues with the code, please  send the email  to us.
 
