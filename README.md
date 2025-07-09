@@ -28,6 +28,7 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 1. Step t=0: Training the model for base classes
 2. Step t>1: Training the model for novel classes with KSPNet
 
+<div align="center">
 |      Scenario      |            Script             |
 |:------------------:|:-----------------------------:|
 | CID-Seg-CDS 11-1 | `sh script/cid_cds/11_1.sh`   |
@@ -40,6 +41,7 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 | WD-Seg-CDS 3-4 | `sh script/wd_cds/3_4.sh`  |
 | WD-Seg-CDS 3-2 | `sh script/wd_cds/3_2.sh`              |
 | WD-Seg-CDS 4-1 | `sh script/wd_cds/4_1.sh`  |
+</div>
 
 + or run the script
     ```shell
