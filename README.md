@@ -41,7 +41,7 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 | WD-Seg-CDS 3-2 | `sh script/wd_cds/3_2.sh`              |
 | WD-Seg-CDS 4-1 | `sh script/wd_cds/4_1.sh`  |
 
-* or run the script
++ or run the script
     ```shell
     sh run.sh
     ```
