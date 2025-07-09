@@ -20,11 +20,13 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 
 **Data preparation**
 
-+ We release the **CID-Seg dataset**，Please download form [here](http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm)
++ We release the **CID-Seg dataset**，Please download form [here](https://github.com/PEfang-CV/KSPNet/CID-Seg.zip)
 + The **WD-Seg dataset** is sourced from corporate collaborations. If you want to the data，please send  the email to us. we will send the download link once we receive and confirm your signed agreement.
 + After downloading the dataset, please archive it into the `datasets` folder.
 
 **Quick Start**
+1. Step t=0: Training the model for base classes
+2. Step t>1: Training the model for novel classes with KSPNet
 
 |      Scenario      |            Script             |
 |:------------------:|:-----------------------------:|
