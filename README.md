@@ -20,7 +20,7 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 
 **Data preparation**
 
-+ We release the **CID-Seg dataset**，Please download form [here](https://github.com/PEfang-CV/KSPNet/CID-Seg.zip)
++ We release the **CID-Seg dataset**，Please download form [here]([https://github.com/PEfang-CV/KSPNet/CID-Seg.zip](https://github.com/PEfang-CV/KSPNet/blob/main/CID-Seg.zip))
 + The **WD-Seg dataset** is sourced from corporate collaborations. If you want to the data，please send  the email to us. we will send the download link once we receive and confirm your signed agreement.
 + After downloading the dataset, please archive it into the `datasets` folder.
 
