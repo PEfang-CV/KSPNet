@@ -1,0 +1,2 @@
+from .continual_evaluation import ContinualSemSegEvaluator
+from .continual_panoptic_evaluation import ContinualCOCOPanopticEvaluator
